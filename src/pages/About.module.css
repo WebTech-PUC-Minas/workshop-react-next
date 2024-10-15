@@ -1,0 +1,11 @@
+.section h1 {
+    text-align: center;
+    width: 100%;
+    color: #2a3341;
+    font-size: 2.5rem;
+}
+
+.section p {
+    font-size: 1.5rem;
+    text-align: justify;
+}
