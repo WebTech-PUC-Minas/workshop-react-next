@@ -415,4 +415,6 @@ function Home() {
 export default Home;
 ```
 
+Agora, o projeto está com as informações carregadas dinamicamente, permitindo que você busque perguntas atualizadas sempre que executar a aplicação. Essa integração com a API enriquece a experiência do usuário e torna seu projeto mais interativo.
+
 Esperamos que este workshop tenha ajudado você a entender melhor o React.js e o Next.js. Não se esqueça de praticar o que aprendeu e, caso precise, sinta-se à vontade para perguntar aos instrutores para esclarecer suas dúvidas.
