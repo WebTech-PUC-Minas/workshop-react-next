@@ -248,7 +248,7 @@ npm install react-router-dom
 
 2. **Configure o arquivo `App.jsx`:**
 
-Abra o arquivo `App.jsx` e configure as rotas para as páginas **Home** e **About**.
+Abra o arquivo `App.jsx` e configure as rotas para as páginas **Home** e **About** e insira o componente Navbar.
 
 ```jsx
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
