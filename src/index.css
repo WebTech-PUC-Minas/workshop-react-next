@@ -21,6 +21,21 @@ body {
   margin: 4rem auto;
 }
 
+.welcome {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.welcome span:first-child {
+  color: #007bff;
+}
+
+.welcome span:last-child {
+  color: #ffc107;
+}
+
 /* Responsividade */
 @media (max-width: 576px) {
   .container {
