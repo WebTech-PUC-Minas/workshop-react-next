@@ -78,7 +78,7 @@ Após executar esse comando, você verá uma mensagem informando que o servidor 
 
 Agora você está pronto para começar a explorar o React.js e o Next.js!
 
-## Criação da Navbar
+## Criação da `Navbar`
 
 ### Passo a passo
 
@@ -211,7 +211,7 @@ function Question({ category, question, correctAnswer, options }) {
 export default Question;
 ```
 
-### Consumindo API
+## Consumindo API
 
 ### Passo a passo
 
